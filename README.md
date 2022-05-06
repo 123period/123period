@@ -9,7 +9,7 @@ I dropped out of school and learning a lot of things. like Network and server, s
   
   [![Email](https://img.shields.io/badge/Email-1D8FB1?style=for-the-badge&logo=mail.ru&logoColor=white&link=mailto:contact@123p.me)](mailto:contact@123p.me)
   [![Youtube Badge](https://img.shields.io/badge/Youtube-C21818?style=for-the-badge&logo=youtube&link=https://www.youtube.com/channel/UCM5mYdbnbcgNBo-om3psJ5w)](https://www.youtube.com/channel/UCM5mYdbnbcgNBo-om3psJ5w)
-  [![Twitch Badge](https://img.shields.io/badge/Twitch-5244A9?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.youtube.com/channel/UCM5mYdbnbcgNBo-om3psJ5w)](https://www.youtube.com/channel/UCM5mYdbnbcgNBo-om3psJ5w)
+  [![Twitch Badge](https://img.shields.io/badge/Twitch-5244A9?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/123period)](https://www.twitch.tv/123period)
 
 </div>
 
